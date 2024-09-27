@@ -1,9 +1,7 @@
-# zomato-sales-analysis--Power-BI-Dashboard
-Here is the updated **README** file for your Zomato Sales Analysis project:
 
 ---
 
-# Zomato Sales Analysis - Power BI Project
+# Zomato Sales Analysis - Power BI Dashboard
 
 ## Project Overview
 This project analyzes sales data from Zomato to derive insights about performance across various metrics. Using Power BI, the report is structured to provide both a high-level overview and detailed breakdowns of sales patterns, customer behavior, and key performance indicators (KPIs).
